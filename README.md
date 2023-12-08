@@ -26,15 +26,18 @@ I am a passionate MEAN stack developer with a keen interest in creating robust a
 
 
 
-### [Project 1 Name]
+### [MeanStack---ChatGPT]
 
-[![Project 1 Screenshot](screenshots/project1.png)](https://github.com/supersaiyancoder/MeanStack---ChatGPT-/blob/main/README.md)
+### [MeanStack - ChatGPT](https://github.com/supersaiyancoder/MeanStack---ChatGPT)
+
 
 *Project Description and Details*
 
-### [Project 2 Name]
+### [Portfolio]
 
-[![Project 2 Screenshot](screenshots/project2.png)](https://github.com/supersaiyancoder/Portfolio)
+### [MeanStack - ChatGPT](https://github.com/supersaiyancoder/Portfolio)
+
+
 
 
 
