@@ -26,16 +26,16 @@ I am a passionate MEAN stack developer with a keen interest in creating robust a
 
 
 
-### [MeanStack---ChatGPT]
+### 1.) [MeanStack---ChatGPT]
 
 ### [MeanStack - ChatGPT](https://github.com/supersaiyancoder/MeanStack---ChatGPT)
 
 
 *Project Description and Details*
 
-### [Portfolio]
+### 2.) [Portfolio]
 
-### [MeanStack - ChatGPT](https://github.com/supersaiyancoder/Portfolio)
+### [Portfolio](https://github.com/supersaiyancoder/Portfolio)
 
 
 
