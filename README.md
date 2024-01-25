@@ -98,9 +98,14 @@ The MeanStack - ChatGPT project focuses on creating a seamless chat application 
 
 The English Dictionary Web App is a versatile tool designed to help users explore the meanings, examples, and synonyms of English words. This application offers a straightforward and user-friendly interface, making it easy for individuals to enhance their vocabulary in an efficient manner.
 
-## Sceenshot
 
-  ![Screenshot 2024-01-24 182133](https://github.com/supersaiyancoder/English-Dictionary-/assets/83352265/e95e48e5-6817-4ca3-89ae-2f4fec0de5a6)
+https://github.com/supersaiyancoder/English-Dictionary-/tree/main
+
+
+## Screenshot
+
+###  LINK :- [Typing Speed Test Simulator](![Screenshot 2024-01-24 182133](https://github.com/supersaiyancoder/English-Dictionary-/assets/83352265/e95e48e5-6817-4ca3-89ae-2f4fec0de5a6)
+
 
 ## Features
 
