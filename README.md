@@ -66,12 +66,6 @@ The MeanStack - ChatGPT project focuses on creating a seamless chat application 
 
 
 
-
-
-
-
-
-
 ### 3.) [Typing Speed Test Simulator]
 
 ###  LINK :- [Typing Speed Test Simulator](https://github.com/supersaiyancoder/Typing-Speed-Test-Sumilator/tree/main)
@@ -98,35 +92,15 @@ The MeanStack - ChatGPT project focuses on creating a seamless chat application 
 - **Event Handling**: Implemented event listeners to capture user input, track typing progress, and trigger game actions such as calculating typing speed and handling retries.
 
 
-## Getting Started
-
-1. **Clone Repository**: Clone this repository to your local machine using the following command:
-
-    ```bash
-    git clone https://github.com/your-username/typing-speed-test-game.git
-    ```
-
-2. **Open in Browser**: Navigate to the cloned directory and open the `index.html` file in a web browser.
-
-3. **Start Typing**: Begin typing the displayed paragraph in the input field. The timer will start automatically.
-
-4. **Review Results**: Once the time is up or the paragraph is completed, review your typing speed, accuracy, and mistakes displayed on the interface.
-
-5. **Try Again**: Click the "Try Again" button to reset the game and start a new round.
-
-6. **Repeat**: Practice and improve your typing skills by playing multiple rounds.
 
 
-
-### English Dictionary Web App
+### 4.) [English Dictionary Web App]
 
 The English Dictionary Web App is a versatile tool designed to help users explore the meanings, examples, and synonyms of English words. This application offers a straightforward and user-friendly interface, making it easy for individuals to enhance their vocabulary in an efficient manner.
 
 ## Sceenshot
 
   ![Screenshot 2024-01-24 182133](https://github.com/supersaiyancoder/English-Dictionary-/assets/83352265/e95e48e5-6817-4ca3-89ae-2f4fec0de5a6)
-
-
 
 ## Features
 
@@ -142,3 +116,5 @@ The English Dictionary Web App is a versatile tool designed to help users explor
 - **CSS**: For styling and layout design.
 - **JavaScript**: Handles user interactions and fetches data from the API.
 - **API**: Utilizes the [DictionaryAPI](https://dictionaryapi.dev/) for word definitions.
+
+
