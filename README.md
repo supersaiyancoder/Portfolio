@@ -55,17 +55,26 @@ The MeanStack - ChatGPT project focuses on creating a seamless chat application 
 
 ### 2.) [Portfolio]
 
-![Screenshot 2023-12-08 151017](https://github.com/supersaiyancoder/Portfolio/assets/83352265/51849fe3-0f26-4f01-8dd4-13f4f96edc65)
+###  LINK :- [Portfolio](https://github.com/supersaiyancoder/Portfolio)
 
+![Screenshot 2023-12-08 151017](https://github.com/supersaiyancoder/Portfolio/assets/83352265/51849fe3-0f26-4f01-8dd4-13f4f96edc65)
 
 ![Screenshot 2023-12-08 151032](https://github.com/supersaiyancoder/Portfolio/assets/83352265/ce4f2583-7045-49bf-bd62-1b698cbf2e69)
 
-###  LINK :- [Portfolio](https://github.com/supersaiyancoder/Portfolio)
+
+
+
+
+
+
+
 
 
 
 
 ### 3.) [Typing Speed Test Simulator]
+
+###  LINK :- [Typing Speed Test Simulator](https://github.com/supersaiyancoder/Typing-Speed-Test-Sumilator/tree/main)
 
 ![Screenshot 2024-01-25 204928](https://github.com/supersaiyancoder/Portfolio/assets/83352265/245c4ad0-08ae-4044-a1a6-a3e259b7e7ed)
 
@@ -89,7 +98,6 @@ The MeanStack - ChatGPT project focuses on creating a seamless chat application 
 - **Event Handling**: Implemented event listeners to capture user input, track typing progress, and trigger game actions such as calculating typing speed and handling retries.
 
 
-###  LINK :- [Typing Speed Test Simulator](https://github.com/supersaiyancoder/Typing-Speed-Test-Sumilator/tree/main)
 
 
 
