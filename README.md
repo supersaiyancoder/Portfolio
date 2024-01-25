@@ -63,7 +63,9 @@ The MeanStack - ChatGPT project focuses on creating a seamless chat application 
 ###  LINK :- [Portfolio](https://github.com/supersaiyancoder/Portfolio)
 
 
-### 2.) [Typing Speed Test Simulator]
+
+
+### 3.) [Typing Speed Test Simulator]
 
 ![Screenshot 2024-01-25 204928](https://github.com/supersaiyancoder/Portfolio/assets/83352265/245c4ad0-08ae-4044-a1a6-a3e259b7e7ed)
 
@@ -78,22 +80,33 @@ The MeanStack - ChatGPT project focuses on creating a seamless chat application 
 - **Retry Option**: Provides players with the option to try again, enabling them to aim for better performance and beat their previous scores.
 
 
+## Skills Utilized
+
+- **HTML, CSS, JavaScript**: Developed using basic web development technologies to create an interactive and user-friendly typing speed test game.
+
+- **SpeechSynthesisUtterance API**: Integrated speech synthesis functionality to provide audio reminders when the time is up, enhancing the user experience.
+
+- **Event Handling**: Implemented event listeners to capture user input, track typing progress, and trigger game actions such as calculating typing speed and handling retries.
+
+
 ###  LINK :- [Typing Speed Test Simulator](https://github.com/supersaiyancoder/Typing-Speed-Test-Sumilator/tree/main)
-
-
-## Skills
-
-- **JavaScript (ES6+)**
-- **Angular**
-- **Node.js**
-- **Express.js**
-- **MongoDB**
 
 
 
 ## Getting Started
 
-1. **Clone the repository:**
+1. **Clone Repository**: Clone this repository to your local machine using the following command:
 
-   ```bash
-   git clone https://github.com/yourusername/your-portfolio.git
+    ```bash
+    git clone https://github.com/your-username/typing-speed-test-game.git
+    ```
+
+2. **Open in Browser**: Navigate to the cloned directory and open the `index.html` file in a web browser.
+
+3. **Start Typing**: Begin typing the displayed paragraph in the input field. The timer will start automatically.
+
+4. **Review Results**: Once the time is up or the paragraph is completed, review your typing speed, accuracy, and mistakes displayed on the interface.
+
+5. **Try Again**: Click the "Try Again" button to reset the game and start a new round.
+
+6. **Repeat**: Practice and improve your typing skills by playing multiple rounds.
