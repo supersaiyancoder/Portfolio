@@ -100,7 +100,6 @@ The English Dictionary Web App is a versatile tool designed to help users explor
 
 
 ###  LINK :- [English Dictionary Web App](https://github.com/supersaiyancoder/English-Dictionary-/tree/main)
-###  LINK :- [https://github.com/supersaiyancoder/English-Dictionary-/tree/main]
 
 
 ## Screenshot
