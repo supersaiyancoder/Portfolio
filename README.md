@@ -59,6 +59,7 @@ The MeanStack - ChatGPT project focuses on creating a seamless chat application 
 
 ![Screenshot 2023-12-08 151017](https://github.com/supersaiyancoder/Portfolio/assets/83352265/51849fe3-0f26-4f01-8dd4-13f4f96edc65)
 
+
 ![Screenshot 2023-12-08 151032](https://github.com/supersaiyancoder/Portfolio/assets/83352265/ce4f2583-7045-49bf-bd62-1b698cbf2e69)
 
 
@@ -114,6 +115,7 @@ The English Dictionary Web App is a versatile tool designed to help users explor
 - **Example Usage**: If available, provides an example sentence demonstrating the usage of the word.
 - **Synonyms**: Shows synonyms of the word, up to a maximum of five. Click on a synonym to search for its meaning.
 - **Audio Pronunciation**: Click on the volume icon to hear the pronunciation of the word.
+
 
 ## Technologies Used
 
