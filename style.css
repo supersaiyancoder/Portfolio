@@ -9,6 +9,7 @@
 
 body {
   font-family: "Poppins", sans-serif;
+  background-image: url(./assets/2ii9.gif);
 }
 
 html {
@@ -355,6 +356,11 @@ section {
   bottom: 2.5rem;
 }
 
+.aboutarrow {
+  position: absolute;
+  right: -5rem;
+}
+
 .details-container {
   padding: 1.5rem;
   flex: 1;
@@ -428,8 +434,22 @@ article .icon {
   background: rgb(250, 250, 250);
 }
 
-.project-img {
+.project-img1 {
   border-radius: 2rem;
+  width: 90%;
+  height: 90%;
+}
+
+.project-img2 {
+  border-radius: 2rem;
+  border: 1px solid #080808;
+  width: 90%;
+  height: 90%;
+}
+
+.project-img3 {
+  border-radius: 2rem;
+  border: 1px solid #080808;
   width: 90%;
   height: 90%;
 }
